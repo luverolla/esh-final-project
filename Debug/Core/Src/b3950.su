@@ -1,0 +1,6 @@
+../Core/Src/b3950.c:5:7:__B3950_RAW2VLT	16	static
+../Core/Src/b3950.c:10:7:__B3950_VLT2RES	24	static
+../Core/Src/b3950.c:15:7:__B3950_RES2TMP	16	static
+../Core/Src/b3950.c:20:15:B3950_Init	24	static
+../Core/Src/b3950.c:28:6:B3950_Deinit	16	static
+../Core/Src/b3950.c:33:7:B3950_Read	24	static

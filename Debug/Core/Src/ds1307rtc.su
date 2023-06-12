@@ -1,0 +1,5 @@
+../Core/Src/ds1307rtc.c:39:9:bcd2Dec	24	static
+../Core/Src/ds1307rtc.c:51:9:dec2Bcd	24	static
+../Core/Src/ds1307rtc.c:60:8:ds1307rtc_get_date_time	40	static
+../Core/Src/ds1307rtc.c:111:8:ds1307rtc_set_date_time	48	static
+../Core/Src/ds1307rtc.c:147:8:ds1307rtc_init	16	static
